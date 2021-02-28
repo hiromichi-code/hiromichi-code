@@ -2,9 +2,9 @@
 
 #### Hello everyone. My name is Hiromichi.
 #### For some reason, I've been learning programming for several months.
-#### I'm struggling every day to build a homepage and a little system, mainly using Next.js, React and Express.
+#### I'm struggling every day to build a homepage and a little system, mainly using Next.js, React and Express. 
 <br />
-<br />
+
 #### 大家好。 我叫寛道。
 #### 由于某种原因，我已经学习了几个月的编程。
 #### 我每天都在努力创建一个主页和一个小系统，主要使用Next.js，React和Express。

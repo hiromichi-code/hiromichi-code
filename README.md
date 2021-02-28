@@ -9,8 +9,6 @@
 
 #### 大家好。 我叫寛道。由於某種原因，我已經學習了幾個月的編程。我每天都在努力創建一個主頁和一個小系統，主要使用Next.js，React和Express。
 
-#### สวัสดีทุกคน. ฉันชื่อฮิโรมิจิ ด้วยเหตุผลบางอย่างฉันเรียนรู้การเขียนโปรแกรมมาหลายเดือนแล้ว ฉันดิ้นรนทุกวันเพื่อสร้างโฮมเพจและระบบเล็ก ๆ น้อย ๆ โดยใช้ Next.js, React และ Express เป็นหลัก
-
 #### Xin chào tất cả mọi người. Tên tôi là Hiromichi.Vì lý do nào đó, tôi đã học lập trình được vài tháng.Tôi đang vật lộn mỗi ngày để xây dựng một trang chủ và một hệ thống nhỏ, chủ yếu sử dụng Next.js, React và Express.
 
 #### Bonjour à tous. Je m'appelle Hiromichi.Pour une raison quelconque, j'apprends la programmation depuis plusieurs mois.J'ai du mal chaque jour à créer une page d'accueil et un petit système, principalement en utilisant Next.js, React et Express.

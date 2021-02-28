@@ -15,26 +15,32 @@
 #### Por alguna razón, he estado aprendiendo programación durante varios meses.
 #### Estoy luchando todos los días para construir una página de inicio y un pequeño sistema, principalmente usando Next.js, React y Express.
 <br />
+
 #### 大家好。 我叫寛道。
 #### 由於某種原因，我已經學習了幾個月的編程。
 #### 我每天都在努力創建一個主頁和一個小系統，主要使用Next.js，React和Express。
 <br />
+
 #### สวัสดีทุกคน. ฉันชื่อฮิโรมิจิ
 #### ด้วยเหตุผลบางอย่างฉันเรียนรู้การเขียนโปรแกรมมาหลายเดือนแล้ว
 #### ฉันดิ้นรนทุกวันเพื่อสร้างโฮมเพจและระบบเล็ก ๆ น้อย ๆ โดยใช้ Next.js, React และ Express เป็นหลัก
 <br />
+
 #### Xin chào tất cả mọi người. Tên tôi là Hiromichi.
 #### Vì lý do nào đó, tôi đã học lập trình được vài tháng.
 #### Tôi đang vật lộn mỗi ngày để xây dựng một trang chủ và một hệ thống nhỏ, chủ yếu sử dụng Next.js, React và Express.
 <br />
+
 #### Bonjour à tous. Je m'appelle Hiromichi.
 #### Pour une raison quelconque, j'apprends la programmation depuis plusieurs mois.
 #### J'ai du mal chaque jour à créer une page d'accueil et un petit système, principalement en utilisant Next.js, React et Express.
 <br />
+
 #### 皆さんこんにちは。
 #### 訳あって数ヶ月前からプログラミングを学んでいます。
 #### 主にNext.jsとReactとExpressを使って、ホームページや、ちょっとしたシステムを構築しようと日々奮闘中です。
 <br />
+
 <!--
 **hiromichi-code/hiromichi-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

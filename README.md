@@ -1,13 +1,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiromichi-code&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
+
 #### Hello everyone. My name is Hiromichi.
 #### For some reason, I've been learning programming for several months.
 #### I'm struggling every day to build a homepage and a little system, mainly using Next.js, React and Express. 
 <br />
+
 #### 大家好。 我叫寛道。
 #### 由于某种原因，我已经学习了几个月的编程。
 #### 我每天都在努力创建一个主页和一个小系统，主要使用Next.js，React和Express。
 <br />
+
 #### Hola a todos. Mi nombre es Hiromichi.
 #### Por alguna razón, he estado aprendiendo programación durante varios meses.
 #### Estoy luchando todos los días para construir una página de inicio y un pequeño sistema, principalmente usando Next.js, React y Express.

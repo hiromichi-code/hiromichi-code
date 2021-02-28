@@ -1,7 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiromichi-code&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-#### Hello everyone. My name is Hiromichi.
+### Hello everyone. My name is Hiromichi.
 #### For some reason, I've been learning programming for several months.
 #### I'm struggling every day to build a homepage and a little system, mainly using Next.js, React and Express. 
 <br />

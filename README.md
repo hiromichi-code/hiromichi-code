@@ -28,6 +28,10 @@ Bonjour à tous. Je m'appelle Hiromichi.
 Pour une raison quelconque, j'apprends la programmation depuis plusieurs mois.
 J'ai du mal chaque jour à créer une page d'accueil et un petit système, principalement en utilisant Next.js, React et Express.
 
+皆さんこんにちは。
+訳あって数ヶ月前からプログラミングを学んでいます。
+主にNext.jsとReactとExpressを使って、ホームページやちょっとしたシステムを構築しようと日々奮闘中です。
+
 <!--
 **hiromichi-code/hiromichi-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

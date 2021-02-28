@@ -30,7 +30,7 @@ J'ai du mal chaque jour à créer une page d'accueil et un petit système, princ
 
 皆さんこんにちは。
 訳あって数ヶ月前からプログラミングを学んでいます。
-主にNext.jsとReactとExpressを使って、ホームページやちょっとしたシステムを構築しようと日々奮闘中です。
+主にNext.jsとReactとExpressを使って、ホームページや、ちょっとしたシステムを構築しようと日々奮闘中です。
 
 <!--
 **hiromichi-code/hiromichi-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

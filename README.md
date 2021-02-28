@@ -8,6 +8,10 @@
 #### 由于某种原因，我已经学习了几个月的编程。
 #### 我每天都在努力创建一个主页和一个小系统，主要使用Next.js，React和Express。
 
+#### Hola a todos. Mi nombre es Hiromichi.
+#### Por alguna razón, he estado aprendiendo programación durante varios meses.
+#### Estoy luchando todos los días para construir una página de inicio y un pequeño sistema, principalmente usando Next.js, React y Express.
+
 #### 大家好。 我叫寛道。
 #### 由於某種原因，我已經學習了幾個月的編程。
 #### 我每天都在努力創建一個主頁和一個小系統，主要使用Next.js，React和Express。
@@ -19,10 +23,6 @@
 #### Xin chào tất cả mọi người. Tên tôi là Hiromichi.
 #### Vì lý do nào đó, tôi đã học lập trình được vài tháng.
 #### Tôi đang vật lộn mỗi ngày để xây dựng một trang chủ và một hệ thống nhỏ, chủ yếu sử dụng Next.js, React và Express.
-
-#### Hola a todos. Mi nombre es Hiromichi.
-#### Por alguna razón, he estado aprendiendo programación durante varios meses.
-#### Estoy luchando todos los días para construir una página de inicio y un pequeño sistema, principalmente usando Next.js, React y Express.
 
 #### Bonjour à tous. Je m'appelle Hiromichi.
 #### Pour une raison quelconque, j'apprends la programmation depuis plusieurs mois.

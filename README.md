@@ -5,7 +5,7 @@
 
 ### 大家好。 由於某種原因，我從2020年開始學習編程。 我每天都在努力構建主頁和小型應用程序，主要是使用Next.js，React和Express。
 
-### 皆さんこんにちは。訳あって2020年からプログラミングを学んでいます。主にNext.jsとReactとExpressを使って、ホームページや、ちょっとしたアプリケーションを構築しようと日々奮闘中です。
+### 皆さんこんにちは。訳あって2020年からプログラミングを学んでいます。主にNext.jsとReactを使って、ホームページや、ちょっとしたアプリケーションを構築しようと日々奮闘中です。
 
 <!--
 **hiromichi-code/hiromichi-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

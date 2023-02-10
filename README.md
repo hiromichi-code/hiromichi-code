@@ -1,8 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiromichi-code&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-##### Hello everyone. I studied programming in 2020 and started design and art in 2022. <br />I enjoy building homepages and small applications using TypeScript, React and Next.js.
-
+# Hello everyone!
 
 
 <!--

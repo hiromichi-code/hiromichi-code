@@ -9,6 +9,6 @@
 ---
 
 ### 🐱 GitHub Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[あなたのユーザーID]&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiromichi-code&layout=compact&theme=vision-friendly-dark)
 
-- ⚡ Fun fact: [あなたに関する面白い事実：例：コーヒーを1日3杯飲みます / キーボードマニアです]
+- ⚡ Fun fact: [コーヒーを1日3杯飲みます]

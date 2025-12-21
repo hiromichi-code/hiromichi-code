@@ -1,5 +1,5 @@
 ### 🐱 GitHub Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[hiromichi-code]&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiromichi-code&layout=compact&theme=vision-friendly-dark)
 
 <p align="left">  
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> 

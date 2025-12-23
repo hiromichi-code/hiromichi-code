@@ -1,4 +1,3 @@
-### 🐱 GitHub Activity
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiromichi-code&layout=compact&theme=vision-friendly-dark)
 
 <p align="left">
